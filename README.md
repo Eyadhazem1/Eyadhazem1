@@ -15,7 +15,6 @@ I enjoy learning by building projects, training models, analyzing data, and work
 * 👁️ Interested in **Computer Vision and CNNs**
 * 🔐 Building knowledge in **Cybersecurity & Network Security**
 * 🛡️ Gained practical experience in a **SOC environment**
-* 🌱 Currently improving my skills in **AI and Cybersecurity**
 * 💡 I enjoy turning what I learn into practical projects
 
 ---
@@ -114,30 +113,6 @@ Faculty of Computers and Artificial Intelligence, Cairo University
 * 🏆 **NTI Network Security Summer Training** — 120 Hours
 * 🤖 **Huawei HCIA-AI**
 * 🧠 **Artificial Intelligence Workshop**
-
----
-
-## 🌱 Currently Learning
-
-```text
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision
-        ↓
-Cybersecurity
-        ↓
-Network Security & SOC
-```
-
-I'm continuously working on strengthening both my **AI expertise** and **cybersecurity knowledge**, with the goal of building solutions where these fields can complement each other.
-
----
-
-## 📊 GitHub Stats
-
-![Eyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyadhazem1\&show_icons=true\&theme=tokyonight)
 
 ---
 
